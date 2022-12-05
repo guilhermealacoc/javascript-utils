@@ -1,2 +1,2 @@
-# javascript-ninja
- Repositório para os exercícios e projetos realizados durante o curso.
+# Javascript Utils
+ Repositório para os exercícios de base de Javascript
